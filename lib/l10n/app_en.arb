@@ -1,0 +1,94 @@
+{
+  "appTitle": "Weather Gravity",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "searchCityHint": "Search city...",
+  "@searchCityHint": {
+    "description": "Hint text for the city search field"
+  },
+  "searchPlaceholder": "Search for a city or use GPS",
+  "@searchPlaceholder": {
+    "description": "Text shown when no city is searched"
+  },
+  "errorTitle": "Oops!",
+  "@errorTitle": {
+    "description": "Title shown in error view"
+  },
+  "tryAgain": "Try Again",
+  "@tryAgain": {
+    "description": "Button text for retrying an action"
+  },
+  "humidity": "Humidity",
+  "@humidity": {
+    "description": "Label for humidity information"
+  },
+  "wind": "Wind",
+  "@wind": {
+    "description": "Label for wind speed information"
+  },
+  "forecastTitle": "5-Day Forecast",
+  "@forecastTitle": {
+    "description": "Title for the 5-day forecast section"
+  },
+  "mapTitle": "Weather Map",
+  "@mapTitle": {
+    "description": "Title for the weather map page"
+  },
+  "temperature": "Temperature",
+  "@temperature": {
+    "description": "Label for temperature"
+  },
+  "precipitation": "Precipitation",
+  "@precipitation": {
+    "description": "Label for precipitation"
+  },
+  "myLocation": "My Location",
+  "@myLocation": {
+    "description": "Tooltip for my location button"
+  },
+  "selectedLocation": "Selected Location",
+  "@selectedLocation": {
+    "description": "Placeholder for selected location title"
+  },
+  "tempShort": "Temp",
+  "@tempShort": {
+    "description": "Short label for temperature"
+  },
+  "fetchingWeatherData": "Fetching Weather Data...",
+  "@fetchingWeatherData": {
+    "description": "Loading message when fetching weather data"
+  },
+  "appName": "WEATHER GRAVITY",
+  "@appName": {
+    "description": "Application name displayed on splash screen"
+  },
+  "appTagline": "Your Sky, Your Data",
+  "@appTagline": {
+    "description": "Application tagline displayed on splash screen"
+  },
+  "languageEnglish": "English",
+  "@languageEnglish": {
+    "description": "English language option"
+  },
+  "languageHindi": "हिंदी (Hindi)",
+  "@languageHindi": {
+    "description": "Hindi language option"
+  },
+  "languageArabic": "العربية (Arabic)",
+  "@languageArabic": {
+    "description": "Arabic language option"
+  },
+  "themeLight": "Light",
+  "@themeLight": {
+    "description": "Light theme option"
+  },
+  "themeDark": "Dark",
+  "@themeDark": {
+    "description": "Dark theme option"
+  },
+  "themeSystem": "System",
+  "@themeSystem": {
+    "description": "System theme option"
+  }
+}
